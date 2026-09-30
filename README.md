@@ -1,2 +1,2 @@
 # Soul-society
-this is a sample repository
+Hello, this is my repo. 
